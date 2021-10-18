@@ -1,1 +1,1 @@
-["ALERT: temperature has exceeded the limit for the country: Tokyo by a value of: 4.785", "ALERT: temperature has exceeded the limit for the country: Tokyo by a value of: 1.6449999999999996", "ALERT: temperature has exceeded the limit for the country: Tokyo by a value of: 3.1400000000000006", "ALERT: temperature has exceeded the limit for the country: Tokyo by a value of: 4.634999999999998", "ALERT: temperature has exceeded the limit for the country: Tokyo by a value of: 2.245000000000001"]
+{0: 'a1', 1: 'a2', 2: 'a3'}
